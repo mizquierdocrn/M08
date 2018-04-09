@@ -1,0 +1,80 @@
+@media (max-width: 480px)
+{
+      body {
+        width:100%;
+        padding: 0;
+        margin: 0;
+      }
+
+      #capcelera {
+        padding: 0;
+        margin: 0;
+        background-color: red;
+        height: 100px;
+        overflow: hidden;
+        text-align: center;
+      }
+
+      #capcelera h1 {
+        margin: 0;
+      }
+
+      #captot{
+        width: 90%;
+        height: 50px;
+        margin: 0 auto;
+        padding:0;
+      }
+
+      .cap{
+        width:14%;
+        background-color: orange;
+        padding: 0;
+        margin: 5px;
+        border: solid black 2px;
+        float: left;
+      }
+
+      #cos{
+      background-color:yellow;
+      text-align: center;
+      overflow: hidden;
+      }
+
+      h2 {
+        margin:0;
+      }
+
+      .noticia{
+        background-color: pink;
+        width: 95%;
+        margin: 5px auto;
+        padding: 0 auto;
+        height: 130px;
+        border: solid black 3px;
+      }
+
+      #menu{
+        float:none;
+        background-color: green;
+        padding: 5px;
+        text-align: center;
+        height: 850px;
+        overflow: hidden;;
+      }
+      .opinio{
+        background-color: pink;
+        width: 95%;
+        margin: 5px;
+        height: 130px;
+        border: solid black 3px;
+      }
+
+      #peu{
+        background-color: cyan;
+        padding: 5px;
+        text-align: center;
+        height: 50px;
+        clear: both;
+      }
+}

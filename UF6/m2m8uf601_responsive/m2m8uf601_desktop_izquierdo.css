@@ -1,0 +1,76 @@
+@media (min-width: 768px){
+  body{
+    width:100%;
+    padding: 0;
+    margin: 0;
+  }
+  #capcelera{
+    background-color: red;
+    height: 100px;
+    text-align: center;
+    width: 100%;
+  }
+  #capcelera h1{
+    margin-top: 0;
+  }
+  #captot{
+    width: 90%;
+    height: 50px;
+    margin: 0 auto;
+  }
+  .cap{
+    width: 17%;
+    float: left;
+    background-color: orange;
+    padding: 0 auto;
+    margin: 0 auto;
+    margin: 5px;
+    border: solid black 2px;
+    overflow: hidden;
+  }
+  #cos{
+    background-color: yellow;
+    padding: 0 auto;
+    margin: 0 auto;
+    text-align: center;
+    height: 860px;
+    overflow: hidden;
+    float: left;
+    width: 60%;
+  }
+  .noticia{
+    background-color: pink;
+    width: 45%;
+    margin: 5px auto;
+    padding: 0 auto;
+    height: 31%;
+    border: solid black 3px;
+    float: right;
+margin-right: 15px;
+
+
+  }
+  #menu{
+    background-color: green;
+    padding: 5px;
+    text-align: center;
+    height: 850px;
+    float: left;
+    width: 38%;
+  }
+  .opinio{
+    background-color: pink;
+    margin: 5px auto;
+    height: 130px;
+    border: solid black 3px;
+    width: 90%;
+  }
+
+  #peu{
+    background-color: cyan;
+    text-align: center;
+    height: 50px;
+    float: left;
+    width: 100%;
+  }
+  }
